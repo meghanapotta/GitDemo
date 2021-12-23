@@ -9,6 +9,8 @@ public class Pb1 {
 			System.out.println("outer loop started");
 			for(int j=1;j<=4;j++) {
 				System.out.println("inner loop");
+				System.out.println("inner");
+				System.out.println("Outer");
 			}
 			System.out.println("outer loop finished");
 		}
