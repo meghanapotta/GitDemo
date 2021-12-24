@@ -12,5 +12,6 @@ public class Datedemo {
 		System.out.println(sdf.format(d));
 		System.out.println(sd.format(d));
 		System.out.println(d.toString());
+		System.out.println("current date displays successfully");
 	}
 }
