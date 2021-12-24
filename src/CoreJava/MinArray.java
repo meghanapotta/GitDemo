@@ -34,6 +34,7 @@ public class MinArray {
 		}
 
 		System.out.println(max);
+		System.out.println("successfully");
 	}
 
 }

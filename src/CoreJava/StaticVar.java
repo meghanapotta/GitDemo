@@ -24,6 +24,7 @@ public class StaticVar {
 	public void getAddress() {
 		
 		System.out.println(address+" "+city);
+		System.out.println("address and city are updated");
 		
 	}
 
